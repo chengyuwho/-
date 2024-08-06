@@ -134,6 +134,6 @@ Python實現雙向鏈表(圖解)
         self.head.next = self.tail
         self.tail.pre = self.head
 
-![01]()
+![01](https://github.com/chengyuwho/-/blob/9c50cc3028589dba47e7360ebc3ffc20bc5cc35f/6.png)
 # 結果
 ![01](https://github.com/chengyuwho/-/blob/63e16f946ad65aa18ff06781b234fb73f07a1524/%E7%B5%90%E6%9E%9C.png)
