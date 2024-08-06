@@ -105,6 +105,8 @@ Python實現雙向鏈表(圖解)
             node = node.next
             index -= 1
         return node
+
+![01](https://github.com/chengyuwho/-/blob/1f5f70e4c23839b39df82351d7da6326272285ff/4.png)
 # 8:反轉鏈表
 反轉鏈表的實現有多種方式，比較簡單的就是生成一個新的鏈表－－》可以用數組存儲所有節點讓後倒序生成新的鏈表
 
@@ -123,11 +125,15 @@ Python實現雙向鏈表(圖解)
         if node:
             node.data = data
         return node
+
+![01]()
 # 9:清空鏈表
 類似初始化
 
     def clear(self):
         self.head.next = self.tail
         self.tail.pre = self.head
+
+![01]()
 # 結果
 ![01](https://github.com/chengyuwho/-/blob/63e16f946ad65aa18ff06781b234fb73f07a1524/%E7%B5%90%E6%9E%9C.png)
