@@ -126,7 +126,7 @@ Python實現雙向鏈表(圖解)
             node.data = data
         return node
 
-![01]()
+![01](https://github.com/chengyuwho/-/blob/54e5ed3a53e7ea8e0f3f6cb17d9f8327c43e5e21/5.png)
 # 9:清空鏈表
 類似初始化
 
