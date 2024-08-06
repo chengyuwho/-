@@ -125,3 +125,4 @@ Python實現雙向鏈表(圖解)
         self.head.next = self.tail
         self.tail.pre = self.head
 # 結果
+![01](https://github.com/chengyuwho/-/blob/63e16f946ad65aa18ff06781b234fb73f07a1524/%E7%B5%90%E6%9E%9C.png)
