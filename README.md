@@ -91,6 +91,8 @@ Python實現雙向鏈表(圖解)
             length += 1
             node = node.next
         return length
+
+![01](https://github.com/chengyuwho/-/blob/6cb33c008e07bda3191986b6090ba6eee6482b2b/3.png)
 # 7:刪除節點
 刪除節點，也要區分一下索引的正負。找到當前節點的前一個節點pre_node和後一個節點next_node，將pre_node.nex–>next_node即可
 
