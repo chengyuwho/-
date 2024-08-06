@@ -14,6 +14,7 @@ Python實現雙向鏈表(圖解)
         self.head.next = self.tail
         self.tail.pre = self.head
 
+![01](https://github.com/chengyuwho/-/blob/64709487cab7dd146b8a9ef5a2392b5287ec0f97/1.png)
 # 2:獲取鏈表長度
 起始head，每有一個節點，length＋1
 
@@ -43,6 +44,8 @@ Python實現雙向鏈表(圖解)
             node.next = next_node
             next_node.pre = node
             return node
+
+![01]()
 # 4:獲取節點
 獲取節點要判斷index正負值
 
