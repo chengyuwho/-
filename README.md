@@ -45,7 +45,7 @@ Python實現雙向鏈表(圖解)
             next_node.pre = node
             return node
 
-![01]()
+![01](https://github.com/chengyuwho/-/blob/fd02646ea99a7e0c003aeea14c1afeda9acb3f33/2.png)
 # 4:獲取節點
 獲取節點要判斷index正負值
 
