@@ -124,3 +124,4 @@ Python實現雙向鏈表(圖解)
     def clear(self):
         self.head.next = self.tail
         self.tail.pre = self.head
+# 結果
